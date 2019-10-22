@@ -1,0 +1,10 @@
+div{
+background: lightyellow;
+color: navy;
+border:2px solid navy;
+border-radius:5px;
+text-align: center;
+padding: .5rem;
+cursor: pointer;
+margin-bottom:.5rem;
+}
